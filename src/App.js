@@ -1,5 +1,5 @@
 import React from 'react';
-
+import Sidebar from './components/Sidebar/Sidebar'
 import './App.css';
 
 function App() {
@@ -8,6 +8,7 @@ function App() {
       <h1>Let's build the twitter clone!!!!</h1>
 
        {/* Sidebar  */}
+       <Sidebar />
        {/*  Feed */}
        {/* Widget */}
 
