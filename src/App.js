@@ -4,7 +4,7 @@ import Feed from './components/Feed/Feed'
 import Widgets from './components/Widgets/Widgets'
 import './App.css';
 
-function App() {
+function App() { 
   return (
     <div className="app">
        <Sidebar />
